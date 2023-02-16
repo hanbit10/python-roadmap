@@ -15,7 +15,6 @@ symbol_count = {
 }
 
 
-
 def check_winnings(columns, lines, bet, values):
   winnings = 0
   winning_lines = []
