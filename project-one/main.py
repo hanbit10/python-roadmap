@@ -21,7 +21,12 @@ symbol_value = {
   "D": 3
 }
 
-
+new_value = {
+  "A": 5,
+  "B": 4,
+  "C": 3,
+  "D": 3
+}
 
 def check_winnings(columns, lines, bet, values):
   winnings = 0
