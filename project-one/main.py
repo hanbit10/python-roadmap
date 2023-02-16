@@ -14,13 +14,6 @@ symbol_count = {
   "D": 6
 }
 
-symbol_value = {
-  "A": 5,
-  "B": 4,
-  "C": 3,
-  "D": 3
-}
-
 
 
 def check_winnings(columns, lines, bet, values):
